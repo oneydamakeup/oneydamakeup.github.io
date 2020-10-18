@@ -1,0 +1,35 @@
+/*Solo pagina principal*/
+.title{
+    margin-top: 80px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.container-principal{
+    margin-top: 50px;
+}
+
+.font-title{
+    font-size: 50px;
+}
+
+.color-title{
+    color: #ff81b5;
+    font-size: 50px;
+}
+
+
+/*Pie de pagina para todas las paginas*/
+.footter{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    min-height: 200px;
+    background-color: #ff81b5;
+}
+
+.title-footer{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 300;
+    font-size: 20px;
+}
